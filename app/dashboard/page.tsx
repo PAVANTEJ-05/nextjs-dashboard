@@ -1,3 +1,6 @@
+import Live from "@/app/ui/dashboard/live"
 export default function Page() {
-    return <p>Dashboard Page</p>;
+    return( <div>Dashboard Page
+        <Live/>
+    </div>);
 }
