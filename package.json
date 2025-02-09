@@ -14,7 +14,7 @@
     "clsx": "^2.1.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "next": "latest",
+    "next": "^15.0.3",
     "next-auth": "5.0.0-beta.19",
     "postcss": "8.4.49",
     "react": "19.0.0",
